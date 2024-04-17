@@ -11,7 +11,7 @@ import ServiceBadges    from '../puppet-services/transclusions/badges.mdx'
 
 <!-- Pushes a curious reader through the first few minutes of use. -->
 
-If you are a total beginner to Wechaty, start from this section. 
+If you are a total beginner to Wechaty, start from this section.
 
 You can run Wechaty on following platforms:
 
