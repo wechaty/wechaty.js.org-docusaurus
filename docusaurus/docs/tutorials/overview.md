@@ -10,14 +10,14 @@ These tutorials take you by the hand through a series of steps to create a chatb
 
 ## Build your first chatbot with wechaty
 
-If you are a total beginner to Wechaty or chatbot application development in general, we recommend you to start from the [Getting started](getting-started/overview.mdx) tutorials. In these tutorials you'll be building a **ding-dong bot** which replies with a `dong` message when it recieves a `ding` message.
+If you are a total beginner to Wechaty or chatbot application development in general, we recommend you to start from the [Getting started](getting-started/overview.md) tutorials. In these tutorials you'll be building a **ding-dong bot** which replies with a `dong` message when it recieves a `ding` message.
 
 The fastest way to get started with Wechaty is to use a Cloud based IDE for **running the bot**. To understand how it works, You can either use:
 
 - [Gitpod](quick-start/running-on-gitpod.md)
 - [Google Cloud Shell](quick-start/running-on-google-cloud-shell.md)
 
-If you are a total begginer then we recommend using [Gitpod](https://gitpod.io/#https://github.com/wechaty/wechaty-getting-started).
+If you are a total beginner then we recommend using [Gitpod](https://gitpod.io/#https://github.com/wechaty/wechaty-getting-started).
 
 Once you get basic idea of ding-dong bot, you can try out building it from scratch by following our [Running Locally](getting-started/running-locally.mdx) tutorial.
 
