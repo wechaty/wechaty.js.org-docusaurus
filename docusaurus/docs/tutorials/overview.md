@@ -10,7 +10,7 @@ These tutorials take you by the hand through a series of steps to create a chatb
 
 ## Build your first chatbot with wechaty
 
-If you are a total beginner to Wechaty or chatbot application development in general, we recommend you to start from the [Getting started](getting-started/overview.md) tutorials. In these tutorials you'll be building a **ding-dong bot** which replies with a `dong` message when it recieves a `ding` message.
+If you are a total beginner to Wechaty or chatbot application development in general, we recommend you to start from the [Getting started](getting-started/overview.mdx) tutorials. In these tutorials you'll be building a **ding-dong bot** which replies with a `dong` message when it recieves a `ding` message.
 
 The fastest way to get started with Wechaty is to use a Cloud based IDE for **running the bot**. To understand how it works, You can either use:
 
