@@ -86,7 +86,13 @@ const FeaturesSection = () => {
             <p id="featuresListing">Multi-platform support.</p>
             <p id="featuresListing">Friendship managment.</p>
           </div>
-          <div id="videoPlaceholder" />
+          <div id="videoPlaceholder">
+            <video controls
+              id="video"
+              src="img/introduction-video.mp4" 
+              type="video/mp4"
+            />
+          </div>
         </div>
         <div id="featuresSectionLowerWrapper">
           <div id="featuresNumberWrapper">
