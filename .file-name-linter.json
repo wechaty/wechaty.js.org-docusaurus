@@ -6,7 +6,7 @@
     ],
     "docusaurus/static": [
       "^(\\.?)[0-9\\-a-z_]+(\\.?)",
-      "\\.(webp|pdf|zip|svg|css|ico|png|nojekyll|js|json)$"
+      "\\.(webp|pdf|zip|svg|css|ico|png|nojekyll|js|json|mp4)$"
     ]
   },
   "ignore": [
