@@ -140,6 +140,11 @@
   margin-top: -5px;
 }
 
+#video {
+  width: 620px;
+  height: 380px;
+}
+
 #featuresSectionLowerWrapper {
   background-color: var(--ifm-hero-background-color);
   border-radius: 150px;
@@ -443,6 +448,11 @@
     margin-bottom: 50px;
   }
 
+  #videoPlaceholder {
+    width: 350px;
+    height: 200px;
+  }
+
   #featuresSectionLowerWrapper {
     border-radius: 70px;
   }
@@ -565,6 +575,11 @@
     width: 420px;
     height: 250px;
     margin-right: 40px;
+  }
+
+  #videoPlaceholder {
+    width: 420px;
+    height: 250px;
   }
 
   #featuresText {
