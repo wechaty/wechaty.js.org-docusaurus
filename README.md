@@ -105,7 +105,7 @@ Init version
 1. [@lijiarui](https://github.com/lijiarui), [Rui LI](https://wechaty.js.org/contributors/lijiarui), Microsoft AI MVP, Founder & CEO of Juzi.BOT (YC W19 Alumni)
 1. [@huan](https://github.com/huan), [Huan LI](https://wechaty.js.org/contributors/huan), Tencent TVP of Chatbot, \<zixia@zixia.net\>
 
-And [wechaty/contributors](https://github.com/orgs/wechaty/teams/contributors/members)
+And [wechaty/contributors](https://github.com/wechaty/wechaty/graphs/contributors)
 
 ## Copyright & License
 
